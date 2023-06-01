@@ -1,0 +1,14 @@
+{
+  "template": "https://github.com/abuttonCH/ab-cookiecutter.git",
+  "commit": "c96ea7650cc377f564d9e6552625952551314098",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "computer_vision",
+      "description": "Computer vision dataset extracted from kaggle",
+      "author_name": "Alex Button",
+      "_template": "https://github.com/abuttonCH/ab-cookiecutter.git"
+    }
+  },
+  "directory": null
+}

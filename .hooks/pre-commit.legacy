@@ -1,0 +1,4 @@
+#!/bin/sh
+sphinx-apidoc -f -o docs/source computer_vision/
+cd docs
+make html
